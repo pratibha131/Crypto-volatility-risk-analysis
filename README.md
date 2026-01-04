@@ -133,10 +133,12 @@ Explainable logic suitable for real-world analytics and risk roles
 crypto-volatility-risk-analysis/
 │
 ├── Cryptomarket_analysis.ipynb
+
 ├── README.md
-├── screenshots/
-│   ├── rolling_volatility.png
-│   └── drawdown.png
+
+├── rolling_volatility.png
+
+|──drawdown.png
 
 ## Author
 Pratibha Mehta
