@@ -132,7 +132,7 @@ Explainable logic suitable for real-world analytics and risk roles
 
 crypto-volatility-risk-analysis/
 │
-├── Cryptomarket_analysis.ipynb
+├── crypto-volatility-risk-analysis.ipynb
 
 ├── README.md
 
